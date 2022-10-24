@@ -1,6 +1,8 @@
 <template>
   <div class="home container">
     <div class="header flex">
+
+      <!-- Header-->
       <div class="left flex-column">
         <h1>Invoices</h1>
         <span>There are 4 total invoices</span>
